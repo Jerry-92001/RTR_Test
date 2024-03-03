@@ -1,0 +1,14 @@
+{
+  "name": "rtr_test",
+  "version": "1.0.0",
+  "description": "1. Install nodejs\r 2. Download Git\r 3. created the Repository name --> RTR_TEST\r 4. Dedictated VDI -- > Visual Studio code\r 5. create folder in local disk\r 6. Install Playwright using command --> npm init playwright@latest\r 7. Create a Test file\r 8. Write the code as per the requirement.\r 9. Run the test file --> npx playwright test\r 10. Push the code into main branch using following commands\r         1. git status\r         2. git add .\r         3. git commit -m \"commit name\"\r         4. git push origin main",
+  "main": "index.js",
+  "scripts": {},
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@playwright/test": "^1.42.1",
+    "@types/node": "^20.11.24"
+  }
+}
